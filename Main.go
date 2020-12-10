@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello World !! )
+	fmt.Println("Hello World !!  )
 	elements := []int{}
 	elements = append(elements, 1, 2, 3, 4, 5, 6, 77, 88, 90)
 
